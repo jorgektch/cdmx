@@ -1,2 +1,2 @@
-# cmdx2025
+# CDMX
 CDMX 2025
